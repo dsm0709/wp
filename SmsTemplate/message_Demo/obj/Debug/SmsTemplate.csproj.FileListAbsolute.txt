@@ -1,0 +1,57 @@
+C:\Users\July\Documents\Visual Studio 2010\Projects\message_Demo\message_Demo\Bin\Debug\ApplicationIcon.png
+C:\Users\July\Documents\Visual Studio 2010\Projects\message_Demo\message_Demo\Bin\Debug\Background.png
+C:\Users\July\Documents\Visual Studio 2010\Projects\message_Demo\message_Demo\Bin\Debug\addto.png
+C:\Users\July\Documents\Visual Studio 2010\Projects\message_Demo\message_Demo\Bin\Debug\send.png
+C:\Users\July\Documents\Visual Studio 2010\Projects\message_Demo\message_Demo\Bin\Debug\search.png
+C:\Users\July\Documents\Visual Studio 2010\Projects\message_Demo\message_Demo\Bin\Debug\sync.png
+C:\Users\July\Documents\Visual Studio 2010\Projects\message_Demo\message_Demo\Bin\Debug\ok.png
+C:\Users\July\Documents\Visual Studio 2010\Projects\message_Demo\message_Demo\Bin\Debug\edit.png
+C:\Users\July\Documents\Visual Studio 2010\Projects\message_Demo\message_Demo\Bin\Debug\next.png
+C:\Users\July\Documents\Visual Studio 2010\Projects\message_Demo\message_Demo\Bin\Debug\message_Demo.dll
+C:\Users\July\Documents\Visual Studio 2010\Projects\message_Demo\message_Demo\Bin\Debug\message_Demo.pdb
+C:\Users\July\Documents\Visual Studio 2010\Projects\message_Demo\message_Demo\Bin\Debug\AppManifest.xaml
+C:\Users\July\Documents\Visual Studio 2010\Projects\message_Demo\message_Demo\Bin\Debug\message_Demo.xap
+C:\Users\July\Documents\Visual Studio 2010\Projects\message_Demo\message_Demo\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\July\Documents\Visual Studio 2010\Projects\message_Demo\message_Demo\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\July\Documents\Visual Studio 2010\Projects\message_Demo\message_Demo\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\July\Documents\Visual Studio 2010\Projects\message_Demo\message_Demo\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\July\Documents\Visual Studio 2010\Projects\message_Demo\message_Demo\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\July\Documents\Visual Studio 2010\Projects\message_Demo\message_Demo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\July\Documents\Visual Studio 2010\Projects\message_Demo\message_Demo\obj\Debug\App.g.i.cs
+C:\Users\July\Documents\Visual Studio 2010\Projects\message_Demo\message_Demo\obj\Debug\Demo.g.i.cs
+C:\Users\July\Documents\Visual Studio 2010\Projects\message_Demo\message_Demo\obj\Debug\MainPage.g.i.cs
+C:\Users\July\Documents\Visual Studio 2010\Projects\message_Demo\message_Demo\obj\Debug\peo.g.i.cs
+C:\Users\July\Documents\Visual Studio 2010\Projects\message_Demo\message_Demo\obj\Debug\qksend.g.i.cs
+C:\Users\July\Documents\Visual Studio 2010\Projects\message_Demo\message_Demo\obj\Debug\message_Demo.g.resources
+C:\Users\July\Documents\Visual Studio 2010\Projects\message_Demo\message_Demo\obj\Debug\message_Demo.dll
+C:\Users\July\Documents\Visual Studio 2010\Projects\message_Demo\message_Demo\obj\Debug\message_Demo.pdb
+C:\Users\July\Documents\Visual Studio 2010\Projects\message_Demo\message_Demo\obj\Debug\XapCacheFile.xml
+C:\Users\July\Desktop\WP7\message_Demo\message_Demo\Bin\Debug\ApplicationIcon.png
+C:\Users\July\Desktop\WP7\message_Demo\message_Demo\Bin\Debug\Background.png
+C:\Users\July\Desktop\WP7\message_Demo\message_Demo\Bin\Debug\addto.png
+C:\Users\July\Desktop\WP7\message_Demo\message_Demo\Bin\Debug\send.png
+C:\Users\July\Desktop\WP7\message_Demo\message_Demo\Bin\Debug\search.png
+C:\Users\July\Desktop\WP7\message_Demo\message_Demo\Bin\Debug\sync.png
+C:\Users\July\Desktop\WP7\message_Demo\message_Demo\Bin\Debug\ok.png
+C:\Users\July\Desktop\WP7\message_Demo\message_Demo\Bin\Debug\edit.png
+C:\Users\July\Desktop\WP7\message_Demo\message_Demo\Bin\Debug\next.png
+C:\Users\July\Desktop\WP7\message_Demo\message_Demo\Bin\Debug\AppManifest.xaml
+C:\Users\July\Desktop\WP7\message_Demo\message_Demo\Bin\Debug\message_Demo.xap
+C:\Users\July\Desktop\WP7\message_Demo\message_Demo\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\July\Desktop\WP7\message_Demo\message_Demo\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\July\Desktop\WP7\message_Demo\message_Demo\Bin\Debug\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\July\Desktop\WP7\message_Demo\message_Demo\Bin\Debug\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\July\Desktop\WP7\message_Demo\message_Demo\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\July\Desktop\WP7\message_Demo\message_Demo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\July\Desktop\WP7\message_Demo\message_Demo\obj\Debug\App.g.i.cs
+C:\Users\July\Desktop\WP7\message_Demo\message_Demo\obj\Debug\Demo.g.i.cs
+C:\Users\July\Desktop\WP7\message_Demo\message_Demo\obj\Debug\MainPage.g.i.cs
+C:\Users\July\Desktop\WP7\message_Demo\message_Demo\obj\Debug\peo.g.i.cs
+C:\Users\July\Desktop\WP7\message_Demo\message_Demo\obj\Debug\qksend.g.i.cs
+C:\Users\July\Desktop\WP7\message_Demo\message_Demo\obj\Debug\XapCacheFile.xml
+C:\Users\July\Desktop\WP7\message_Demo\message_Demo\Bin\Debug\message_Demo.dll
+C:\Users\July\Desktop\WP7\message_Demo\message_Demo\Bin\Debug\message_Demo.pdb
+C:\Users\July\Desktop\WP7\message_Demo\message_Demo\obj\Debug\message_Demo.g.resources
+C:\Users\July\Desktop\WP7\message_Demo\message_Demo\obj\Debug\message_Demo.dll
+C:\Users\July\Desktop\WP7\message_Demo\message_Demo\obj\Debug\message_Demo.pdb
+C:\Users\July\Desktop\WP7\message_Demo\message_Demo\obj\Debug\Help.g.i.cs
